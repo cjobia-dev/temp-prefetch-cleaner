@@ -49,7 +49,11 @@ No Python installation needed — just grab the standalone executable:
 ## 🖥️ Screenshots
 
 <div align="center">
-<i>(Add a screenshot of the app here — drag an image into this README on GitHub and it'll generate the markdown for you)</i>
+<p align="center"> 
+<img src="SCREENSHOT OF PROJECT/ss3.jpg" width="32%" /> 
+<img src="SCREENSHOT OF PROJECT/ss2.jpg" width="32%" /> 
+<img src="SCREENSHOT OF PROJECT/ss1.jpg" width="32%" /> 
+</p>
 </div>
 
 ---
