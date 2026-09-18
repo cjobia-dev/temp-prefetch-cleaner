@@ -50,9 +50,9 @@ No Python installation needed — just grab the standalone executable:
 
 <div align="center">
 <p align="center"> 
-<img src="SCREENSHOT OF PROJECT/ss3.jpg" width="32%" /> 
-<img src="SCREENSHOT OF PROJECT/ss2.jpg" width="32%" /> 
-<img src="SCREENSHOT OF PROJECT/ss1.jpg" width="32%" /> 
+<img src="screenshots/ss3.jpg" width="32%" /> 
+<img src="screenshots/ss2.jpg" width="32%" /> 
+<img src="screenshots/ss1.jpg" width="32%" /> 
 </p>
 </div>
 
